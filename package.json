@@ -1,0 +1,14 @@
+{
+  "name": "leaner23706",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "📚 一对一教学 📚 大马最出名的一对一补习",
+  "keywords": [
+    "📚 一对一教学 📚 大马最出名的一对一补习"
+  ],
+  "repository": "https://github.com/teducationhelper/leaner23706",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
